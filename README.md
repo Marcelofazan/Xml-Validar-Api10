@@ -1,4 +1,4 @@
-## 🛠️ Api-Xml-Validacao
+## 🛠️ Api10-Xml-Validacao
 Exemplo de API validando schema em arquivos XML com C# ASP.NET Core 10.
 
 #### 📋 O que voçê vai ver nesse Projeto

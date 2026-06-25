@@ -1,5 +1,5 @@
 ## 🛠️ Api10-Xml-Validar
-Exemplo de API validando schema em arquivos XML com C# ASP.NET Core 10.
+Exemplo de validação de schema de arquivos XML com API em C# ASP.NET Core 10.
 
 #### 📋 O que voçê vai ver nesse Projeto
 
